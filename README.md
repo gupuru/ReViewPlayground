@@ -1,5 +1,7 @@
 # ReViewPlayground
 
+Re:VIEWを遊ぶためのリポジトリ
+
 ## 実行
 ```
 $ docker pull vvakame/review
